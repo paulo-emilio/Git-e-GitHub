@@ -28,3 +28,30 @@ Lista de tarefas:
 - [ ] Criar página da loja
 - [ ] Finalizar reunião 
 - [ ] Receber 10 milhôes
+
+Imagem:                                                                                                                                  
+![thanks](https://user-images.githubusercontent.com/112037264/197350637-a3360666-e488-41d4-b6c2-749b9020bada.png)
+
+
+Tabela:
+Num | Nome | Nota
+---|---|---
+1 | Paulo Emílio | 10
+2 | Gafanhoto | 9.9
+3 | Darth Vader | ♾️
+
+Comando: `document.getElementById()`
+
+Programa:
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0
+    print(f'{num} é PAR')
+else:
+    print(f'{num} é IMPAR')
+```
+Emotions: :atom:  
+Hello World! 🖖  
+It's almost Halloween! 🎃  
+
+
